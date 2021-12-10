@@ -1,0 +1,33 @@
+body{
+background-image: url("Forest.jpg");
+    color: white;
+}
+p{
+    color: white;
+    font-size: 25px;
+}
+
+.btn{
+    outline-color: green;
+}
+h2{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.nav a {
+    color: springgreen;
+}
+
+.p1 {
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+}
+h4 {
+    font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+}
